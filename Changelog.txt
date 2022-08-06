@@ -354,4 +354,5 @@ v5.0.2
 v5.0.3
 - Highlighted the support menu item
 
-! Consider donating to support the project !
+v6
+- Fork project - started doing minor changes
